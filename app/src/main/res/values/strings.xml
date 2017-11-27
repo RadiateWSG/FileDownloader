@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FileDownloader</string>
+    <string name="add_table">添加数据</string>
+    <string name="clear_table">清除数据</string>
+    <string name="clear_file">删除所有文件</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="delete">删除</string>
+    <string name="task">任务：%s</string>
+    <string name="status_normal">状态：未下载</string>
+    <string name="status_pending">状态：等待下载</string>
+    <string name="status_started">状态：开始下载</string>
+    <string name="status_connecting">状态：连接服务器</string>
+    <string name="status_connectSuc">状态：连接成功</string>
+    <string name="status_downloading">状态：下载中…</string>
+    <string name="status_completed">状态：下载完成</string>
+    <string name="status_pause">状态：暂停</string>
+    <string name="status_error">状态：下载失败</string>
+    <string name="status_retry">准备重试</string>
+</resources>
